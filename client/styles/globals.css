@@ -1,0 +1,9 @@
+.bg-primary {
+  @apply bg-blue-500;
+}
+
+.text-primary {
+  @apply text-blue-500;
+}
+
+/* Add more global styles as needed */
